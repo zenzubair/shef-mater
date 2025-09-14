@@ -1,1 +1,1 @@
-#   This is static website for shef. its made on Flask platform
+#   This is static website for shef. Its made on Flask platform
