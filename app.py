@@ -104,4 +104,4 @@ def user_subscribe():
     return render_template('contact.html',msg=msg , u_subs=u_subs )
 
 if __name__ == "__main__":
-    app.run(host="localhost", port=int("5000"))
+    app.run(host="localhost", port=int("5000") , debug=True)
